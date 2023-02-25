@@ -1,0 +1,16 @@
+* {
+    font-family: Verdana, sans-serif;
+}
+
+.center-text {
+    text-align: center;
+}
+
+h1 {
+    font-size: 48px;
+    background-color: tan;
+}
+
+ul li {
+    font-size: 32px;
+}
